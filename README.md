@@ -1,25 +1,37 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+Henrý Guðmundsson. Ég var einn í hóp. 
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Það gekk ekkert og kom alltaf bara svartur skjár. Setti upp virtualbox og síðan ubuntu. Þegar ég logga mig síðan inn
+þá kom bara svartur skjár. (skoðið hvernig myndir eru settar inn í Markdown skjöl). Setti bara upp gitbash í staðinn.
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Setti þau ekki upp þar sem ég gat ekki sett upp upuntu eða linuxmint í virtualbox.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Þetta gekk ekki áfallalaust fyrir sig, en það er samt auðvelt að sjá hvað þetta er hentugt
+ef margir ætla að vinna á sama kóðanum í einu.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Linkur á mitt forked repository: https://github.com/hengud/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+1) Code::Blocks
+licence: Code::Blocks is distributed under the GPL v3.0 license which means it can be used freely by anyone (GNU General Public License 3)
+
+2) VLC player
+licence: GNU General Public License v2 or later and LGPL
+source code: http://www.videolan.org/vlc/download-sources.html
+
+3) Texmaker
+licence: GNU GPL
+source code: http://www.xm1math.net/texmaker/download.html#source
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Þetta tók á en hafðist fyrir rest. Eins og áður sagði þá er auðvelt að sjá hversu hentugt og sniðugt þetta er 
+ef eitthvað forritunarteymi er að vinna í sama verkefninu.
