@@ -5,7 +5,7 @@ Henrý Guðmundsson. Ég var einn í hóp.
 ## 1. Linux uppsetning
 
 Það gekk ekkert og kom alltaf bara svartur skjár. Setti upp virtualbox og síðan ubuntu. Þegar ég logga mig síðan inn
-þá kom bara svartur skjár. (skoðið hvernig myndir eru settar inn í Markdown skjöl). Setti bara upp gitbash í staðinn.
+þá kom bara svartur skjár. Setti bara upp gitbash í staðinn.
 
 ## 2. Uppsetning á vim && git
 
@@ -22,6 +22,7 @@ Linkur á mitt forked repository: https://github.com/hengud/INTOPrufa
 
 1) Code::Blocks
 licence: Code::Blocks is distributed under the GPL v3.0 license which means it can be used freely by anyone (GNU General Public License 3)
+source code: http://www.codeblocks.org/downloads/25
 
 2) VLC player
 licence: GNU General Public License v2 or later and LGPL
