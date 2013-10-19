@@ -7,6 +7,10 @@ Henrý Guðmundsson. Ég var einn í hóp.
 Það gekk ekkert og kom alltaf bara svartur skjár. Setti upp virtualbox og síðan ubuntu. Þegar ég logga mig síðan inn
 þá kom bara svartur skjár. Setti bara upp gitbash í staðinn.
 
+![Alt text](GitBash.png "Mynd af Gitbash")
+![Alt text](Ubuntu.png "Mynd af Ubuntu")
+![Alt text](Ubuntu_fail_blackscreen.png "Mynd af blackscreen")
+
 ## 2. Uppsetning á vim && git
 
 Setti þau ekki upp þar sem ég gat ekki sett upp upuntu eða linuxmint í virtualbox.
